@@ -8,4 +8,4 @@
 클래스의 인스턴스는 오직 하나임을 보장하며 이 인스턴스에 접근할 수 있는 방법을 제공하는 패턴
 
 - 🖥️[코드](https://github.com/ZANGZANGS/gof_design_pattern/commit/8083bd09ae3314216014ab94027c1e9ddf89025f)
-- ✒️[설명]()
+- ✒️[설명](https://zangzangs.tistory.com/119)
