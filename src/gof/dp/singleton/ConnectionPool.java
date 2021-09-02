@@ -9,10 +9,9 @@ public class ConnectionPool {
 
     //외부에서 접근 가능한 static 메서드 생성
     public static ConnectionPool getInstance(){
-        if(null ==instance){
+        if(null == instance){
             instance = new ConnectionPool();
         }
-
         return instance;
     }
 }
