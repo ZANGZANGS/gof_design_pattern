@@ -9,3 +9,12 @@
 
 - 🖥️[코드](https://github.com/ZANGZANGS/gof_design_pattern/commit/8083bd09ae3314216014ab94027c1e9ddf89025f)
 - ✒️[설명](https://zangzangs.tistory.com/119)
+
+
+### Prototype Pattern
+생성할 객체들의 타입이 프로토타입인 인스턴스로부터 결정되도록 하며, 인스턴스는 새 객체를 만들기 위해 자신을 복제하는 패턴
+
+- 🖥️[코드](https://github.com/ZANGZANGS/gof_design_pattern/commit/ae0dc0d28f09e84ad0e2cc0968dc1b6efd9c096d)
+- ✒️[설명](https://zangzangs.tistory.com/120)
+
+
