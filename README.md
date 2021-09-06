@@ -18,3 +18,10 @@
 - ✒️[설명](https://zangzangs.tistory.com/120)
 
 
+### AbstractFactory Pattern
+서로 연관이 있는 객체들을 묶어서 팩토리 클래스로 만들고, 이를 팩토리 조건에 따라 생성하도록 다시 팩토리를 만들어서 객체를 생성하는 패턴. 즉, 여러 제품군을 한꺼번에 생성하는 패턴
+
+- 🖥️[코드](https://github.com/ZANGZANGS/gof_design_pattern/commit/2058245425f7056bfddf7a4f2571c3a3efe9e78a)
+- ✒️[설명](https://zangzangs.tistory.com/121)
+
+
