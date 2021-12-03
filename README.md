@@ -3,7 +3,7 @@
 ✍
 소프트웨어를 재사용성이 높게, 유연하게, 확장성을 높이고, 유지보수가 용이하게 만드는 것은 매우 어려운 일입니다.
 디자인 패턴은 소프트웨어 설계에서 공통으로 발생하는 문제에 대해 자주 쓰이는 설계 방법입니다.
-
+<br><br><br>
 ## 생성패턴
 
 ### Singleton Pattern
@@ -33,6 +33,7 @@
 - 🖥️[코드](https://github.com/ZANGZANGS/gof_design_pattern/commit/7b4d50b33ae1461a1b1085d1344748018e96eaca)
 - ✒️[설명](https://zangzangs.tistory.com/145)
 
+<br><br><br>
 ## 행위 패턴
 
 ### Builder Pattern
