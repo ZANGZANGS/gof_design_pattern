@@ -33,3 +33,11 @@
 - 🖥️[코드](https://github.com/ZANGZANGS/gof_design_pattern/commit/7b4d50b33ae1461a1b1085d1344748018e96eaca)
 - ✒️[설명](https://zangzangs.tistory.com/145)
 
+## 행위 패턴
+
+### Builder Pattern
+상위 클래스에서 전반적인 흐름을 구현하고 하위 클래스에서 이를 상속받아 구체적인 처리를 하도록 행동을 위임하는 패턴.
+
+- 🖥️[코드](https://github.com/ZANGZANGS/gof_design_pattern/commit/1c54fe614c5ea26f5e3575f2c1374d7332e83cc7)
+- ✒️[설명](https://zangzangs.tistory.com/146)
+
