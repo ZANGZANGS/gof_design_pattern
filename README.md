@@ -42,3 +42,10 @@
 - 🖥️[코드](https://github.com/ZANGZANGS/gof_design_pattern/commit/1c54fe614c5ea26f5e3575f2c1374d7332e83cc7)
 - ✒️[설명](https://zangzangs.tistory.com/146)
 
+
+### Factory Method Pattern
+상위 클래스에서 공통적인 부분을 처리하고, 하위 클래스에서 각각 일어날 수 있는 인스턴스에 대한 생성을 하도록 인스턴스 생성을 분리하도록 위임하는 패턴.
+
+- 🖥️[코드](https://github.com/ZANGZANGS/gof_design_pattern/commit/9e8f8d297c4096fe20a3aef02237e2998d5343db)
+- ✒️[설명](https://zangzangs.tistory.com/147)
+
