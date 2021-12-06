@@ -49,3 +49,9 @@
 - 🖥️[코드](https://github.com/ZANGZANGS/gof_design_pattern/commit/9e8f8d297c4096fe20a3aef02237e2998d5343db)
 - ✒️[설명](https://zangzangs.tistory.com/147)
 
+
+### Strategy Pattern
+상황에따라 전략이나 알고리즘을 교체하여 사용하는 패턴
+
+- 🖥️[코드](https://github.com/ZANGZANGS/gof_design_pattern/commit/147eebdb5cf1f30a3e3dd890438ab59fcf9b095c)
+- ✒️[설명](https://zangzangs.tistory.com/148)
