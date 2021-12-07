@@ -55,3 +55,10 @@
 
 - 🖥️[코드](https://github.com/ZANGZANGS/gof_design_pattern/commit/147eebdb5cf1f30a3e3dd890438ab59fcf9b095c)
 - ✒️[설명](https://zangzangs.tistory.com/148)
+
+
+### Bridge Pattern
+기능의 계층과 구현의 계층을 분리하는 패턴입니다. 추상화와 구현을 분리하여 각각을 독립적으로 변경할 수 있게 하는 패턴
+
+- 🖥️[코드](https://github.com/ZANGZANGS/gof_design_pattern/commit/d9796a8b43c34c24448998e138c5f48c75f6d2a8)
+- ✒️[설명](https://zangzangs.tistory.com/148)
