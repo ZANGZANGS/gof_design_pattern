@@ -62,3 +62,9 @@
 
 - 🖥️[코드](https://github.com/ZANGZANGS/gof_design_pattern/commit/d9796a8b43c34c24448998e138c5f48c75f6d2a8)
 - ✒️[설명](https://zangzangs.tistory.com/148)
+
+### Decorator Pattern
+장식과 실제 내용물을 동일시 하는 패턴으로 생성된 객체에 동적으로 행위를 추가하는 패턴입니다.
+
+- 🖥️[코드](https://github.com/ZANGZANGS/gof_design_pattern/commit/a3a97ba979c6fe790f3b61e79009c47822344bda)
+- ✒️[설명](https://zangzangs.tistory.com/151)
