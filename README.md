@@ -68,3 +68,9 @@
 
 - 🖥️[코드](https://github.com/ZANGZANGS/gof_design_pattern/commit/a3a97ba979c6fe790f3b61e79009c47822344bda)
 - ✒️[설명](https://zangzangs.tistory.com/151)
+
+### Composite Pattern
+그릇과 내용물을 동일시 하는 패턴으로 하나 이상의 유사한 객체를 구성으로 설계된 객체로 모두 유사한 기능을 나타낸다.
+
+- 🖥️[코드](https://github.com/ZANGZANGS/gof_design_pattern/commit/c0f1966298d641b8441c780f911089d7096d0332)
+- ✒️[설명](https://zangzangs.tistory.com/153)
