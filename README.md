@@ -74,3 +74,9 @@
 
 - 🖥️[코드](https://github.com/ZANGZANGS/gof_design_pattern/commit/c0f1966298d641b8441c780f911089d7096d0332)
 - ✒️[설명](https://zangzangs.tistory.com/153)
+
+### Adapter Pattern
+서로 다른 인터페이스를 중간에서 연결해주기 위해 사용하는 패턴
+
+- 🖥️[코드](https://github.com/ZANGZANGS/gof_design_pattern/commit/4b4967bd4407e39105e08b91325c0b11f7e63812)
+- ✒️[설명](https://zangzangs.tistory.com/154)
