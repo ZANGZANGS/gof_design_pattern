@@ -80,3 +80,11 @@
 
 - 🖥️[코드](https://github.com/ZANGZANGS/gof_design_pattern/commit/4b4967bd4407e39105e08b91325c0b11f7e63812)
 - ✒️[설명](https://zangzangs.tistory.com/154)
+
+
+
+### State Pattern
+클래스가 하나의 상태(state)에 따라 내부의 메서드의 기능이 바뀌는 경우이를 각각의 클래스로 분리하는 패턴
+
+- 🖥️[코드](https://github.com/ZANGZANGS/gof_design_pattern/commit/965ad9e1603a76455052986ce0a1bfdd36fe9885)
+- ✒️[설명](https://zangzangs.tistory.com/155)
